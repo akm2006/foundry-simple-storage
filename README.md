@@ -4,7 +4,11 @@
 A minimal Solidity smart contract deployed using [Foundry](https://book.getfoundry.sh/) — Ethereum's blazing fast, modular, and developer-friendly toolkit. This project recreates the classic **Simple Storage** contract using Foundry’s scripting system for deployment.
 
 ---
+## 🔗 Deployed Contract (Sepolia)
 
+- **Address:** `0x5Db9612cB05b21940D04F9CB814A8DFc54838378`
+- **Explorer:** [View on Sepolia Etherscan](https://sepolia.etherscan.io/address/0x5Db9612cB05b21940D04F9CB814A8DFc54838378)
+---
 ## 🗂 Project Structure
 
 ```bash
